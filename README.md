@@ -1,5 +1,7 @@
 # slideshow-nicegui
 
+I want to try out NiceGUI.io for something. I needed a simple slideshow this morning and thought I could code up something fast on my own, but also figured it was a good project to try NiceGUI out.
+
 ```
 ## TODOs
 
